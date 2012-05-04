@@ -1,0 +1,6 @@
+(a) Placement Screening System: 
+
+The expert system should give a list of companies (in the order of close match) in which the student may appear for the tests. If no match is found, he or she should be denied a placement test.
+
+(b) Problem Description:
+The expert system determines which faculty/major in general can be suitable for the student. 
